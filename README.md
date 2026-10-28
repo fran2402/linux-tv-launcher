@@ -1,5 +1,9 @@
 # linux-tv-launcher
 
+<img width="1907" height="1068" alt="image" src="https://github.com/user-attachments/assets/56e6908a-a0a5-4465-9899-bb4f9ecf8e5e" />
+<img width="1907" height="1068" alt="image" src="https://github.com/user-attachments/assets/c4adbd60-d1b3-4df8-b29a-d0dc5243a3c2" />
+
+
 A living-room home screen for a Linux PC on a TV. A realist landscape painting from a museum's open collection (or a photo from Unsplash) fills the screen and dissolves into a glaze of its own colours on the left, where a big clock, the date, the weather and your apps sit. Everything works with a remote's arrow keys, OK and Back.
 
 - **Your apps** along the bottom. YouTube and YouTube Music to start with; add, change, reorder and remove them from **Edit apps**, each with its own icon.
