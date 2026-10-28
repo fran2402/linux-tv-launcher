@@ -1,0 +1,15 @@
+{
+  "port": 8765,
+  "language": "en-GB",
+
+  "weather_location": "",
+  "weather_units": "celsius",
+
+  "home_art": "paintings",
+  "painting_seconds": 72,
+  "rijksmuseum_key": "",
+  "harvard_key": "",
+  "unsplash_access_key": "",
+
+  "firefox": "firefox"
+}
