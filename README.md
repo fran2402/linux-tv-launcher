@@ -1,7 +1,7 @@
 # linux-tv-launcher
 
 <img width="1907" height="1068" alt="image" src="https://github.com/user-attachments/assets/56e6908a-a0a5-4465-9899-bb4f9ecf8e5e" />
-<img width="1907" height="1068" alt="image" src="https://github.com/user-attachments/assets/c4adbd60-d1b3-4df8-b29a-d0dc5243a3c2" />
+<img width="1914" height="1058" alt="image" src="https://github.com/user-attachments/assets/7ad51d1a-7336-4f80-afc7-c65aa06312b2" />
 
 
 A living-room home screen for a Linux PC on a TV. A realist landscape painting from a museum's open collection (or a photo from Unsplash) fills the screen and dissolves into a glaze of its own colours on the left, where a big clock, the date, the weather and your apps sit. Everything works with a remote's arrow keys, OK and Back.
